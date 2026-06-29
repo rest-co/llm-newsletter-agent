@@ -1,0 +1,6 @@
+beautifulsoup4
+langchain-core
+langchain-ollama
+psycopg2-binary
+python-dotenv
+requests
