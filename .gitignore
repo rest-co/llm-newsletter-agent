@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+logs/
+roykim_newsletter.html
+.DS_Store
+.vscode/
+.idea/
